@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "ABC/src",
+        "SimpleDictionary/src"
+    ]
+}
